@@ -10,6 +10,7 @@ This is a complete listing of all of our documents. There is no categorization, 
 1. [Sample Design](docs/sample-design/SampleDesign.md)
 1. [Genomics BQ Tables in the CDR](https://docs.google.com/document/d/1sEJoPrmeujzQecSmjdxB6cEHIMC6OV9Ds6Plh625Ibs/edit)
 1. [Genomics Tickets For Refinement](https://docs.google.com/document/d/1sEJoPrmeujzQecSmjdxB6cEHIMC6OV9Ds6Plh625Ibs/edit)
+1. [Egress Alert Response](https://docs.google.com/document/d/1JShB9T5q9sVwZSX7mE3VyRqqK5PqElTTzEhI6KOZ5w4/edit)
 
 ## Goals
 This is a repository to hold all AoU documentation.
