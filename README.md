@@ -1,4 +1,4 @@
-# Bibliography
+# Index
 
 This is a complete listing of all of our documents. There is no categorization, all entries should be in alphabetical order. It is recommended that you use a plugin in your IDE to alphabetize the entries.
 
@@ -8,6 +8,8 @@ This is a complete listing of all of our documents. There is no categorization, 
 1. [Router Design - Component With Title](https://docs.google.com/document/d/11wJvrVUkgkOxwaHsHwg0JD3oqYunRAnLxDwI55INXYA/edit#heading=h.b5vt06vb56bp)
 1. [Router Design Doc](https://docs.google.com/document/d/1T4N8c78l12YQtrWoN8ecQ7965rsBYcWu1_8LXdnJlIs/edit)
 1. [Sample Design](docs/sample-design/SampleDesign.md)
+1. [Genomics BQ Tables in the CDR](https://docs.google.com/document/d/1sEJoPrmeujzQecSmjdxB6cEHIMC6OV9Ds6Plh625Ibs/edit)
+1. [Genomics Tickets For Refinement](https://docs.google.com/document/d/1sEJoPrmeujzQecSmjdxB6cEHIMC6OV9Ds6Plh625Ibs/edit)
 
 ## Goals
 This is a repository to hold all AoU documentation.
